@@ -18,6 +18,19 @@ Functional Treat - Data Analyzer & Transformer
 
 ---
 
+explanation video -
+
+
+GitHub Repository link -
+
+
+
+
+
+
+
+
+
 ## 📌 Project Overview
 
 
@@ -82,14 +95,6 @@ Main Menu:
 
 
 
-🎬 Video Explanation link:
-
-
-
-
-📁 Repository Link: 
-
-https://github.com/ayushjivani082/py_project.4--Functional-Treat/blob/main/python_pr.4%20Functional%20Treat.py
 
 
 📂 Project Structure:
