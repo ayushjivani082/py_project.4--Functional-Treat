@@ -21,8 +21,7 @@ Functional Treat - Data Analyzer & Transformer
 explanation video -
 
 
-GitHub Repository link -https://github.com/ayushjivani082/py_project.4--Functional-Treat/blob/main/python_pr.4%20Functional%20Treat.py
-
+GitHub Repository link - https://github.com/ayushjivani082/py_project.4--Functional-Treat/blob/d29dafc44b20603a8aef0a5a57d9622c7e299da0/4.%20Functional%20Treat.py
 
 
 
